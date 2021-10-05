@@ -1,6 +1,7 @@
 # elenaperezsegnini.github.io
 ## Introduction
 My name is Elena Perez-Segnini, and I'm a *journalism major* and a *marketing minor* at **Lehigh University**. I'm using github to complete projects in my data journalism class.
+
 ![portrait](https://raw.githubusercontent.com/elenaperezsegnini/elenaperezsegnini.github.io/main/59A1424E-10B8-4909-A146-2FF32A523A2AIMG_0424.jpeg)
 Linkedin Profile: [here](https://www.linkedin.com/in/elena-perez-segnini-10a9a1204/)
 
