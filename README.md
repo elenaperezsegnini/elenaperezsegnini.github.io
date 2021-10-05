@@ -3,7 +3,7 @@
 My name is Elena Perez-Segnini, and I'm a *journalism major* and a *marketing minor* at **Lehigh University**. I'm using github to complete projects in my data journalism class. 
 Linkedin Profile: [here](https://www.linkedin.com/in/elena-perez-segnini-10a9a1204/)
 
-## Infographic on Undergraduate Enrollment at Lehigh University 
+## Infographic displaying Undergraduate Residence at Lehigh University 
 The infographic below categorizes where undergraduates at Lehigh University live. The infographic clearly displays the amount of students in each living space and the percentage of students in each of these living spaces comparative to each other.  
 ![Undergraduate Enrollment at Lehigh University Graphic](https://user-images.githubusercontent.com/90854946/134543140-7d77a817-4783-4fcc-864e-34667aad2377.png)
 ![How Does Eating Meat Harm the Environment](https://raw.githubusercontent.com/elenaperezsegnini/elenaperezsegnini.github.io/main/How%20does%20eating%20meat%20harm%20the%20environment%20(1).png)
