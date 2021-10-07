@@ -22,4 +22,4 @@ Allyson Felix is an american icon due to her athletic acheivments in women's tra
 
 ## Full Time Faculty at Lehigh University 
 This is a bar graph highlighting the amount of full time faculty at Lehigh University divied into groups based on job title. The graph further allocates the amount of females, males, total faculty and total percentage within the job title. 
-![bar Graph] ()
+![bar Grap](https://raw.githubusercontent.com/elenaperezsegnini/elenaperezsegnini.github.io/main/Full_Time_Faculty_at_Lehigh_University_Male_Female_Total_Total_Percent__chartbuilder.png)
