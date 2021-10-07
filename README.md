@@ -19,3 +19,7 @@ This timeline highlights the Lehigh University versus Lafayette University footb
 ## A Timeline of Allyson Felix's accomplishments 
 Allyson Felix is an american icon due to her athletic acheivments in women's track and field. She is a face of women empowerment, as she inspires women to take control and reach for records and goals that seem impossible. Her impact is espeacially important to young girls who are able to see a powerful female athlete go against gender bias stereotypes and dominate the professional athletic field which is stereotypically represented by men. https://en.wikipedia.org/wiki/Allyson_Felix
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1t7rINmoDd2-1jQh0vveh7vF5p48dXC0gq2ZwB4Ac46k&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Full Time Faculty at Lehigh University 
+This is a bar graph highlighting the amount of full time faculty at Lehigh University divied into groups based on job title. The graph further allocates the amount of females, males, total faculty and total percentage within the job title. 
+![bar Graph] ()
