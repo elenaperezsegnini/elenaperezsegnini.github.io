@@ -31,4 +31,5 @@ The graph "5 Years of Undergraduate Enrollment at Lehigh University'' depicts th
 ![Line Grap](https://raw.githubusercontent.com/elenaperezsegnini/elenaperezsegnini.github.io/main/5_years_of_Undergraduate_Enrollment_at_Lehigh_University_Arts_and_Sciences_Engineering_Business_chartbuilder.png)
 ## Life satisfaction in Cantril Ladder (World Happiness Report 2019)
 The graph “Life satisfaction in Cantril Ladder (World Happiness Report 2019)” shows  countries’ GDP per capita on the x-axis compared to their life satisfaction on the y-axis. The correlation between life satisfaction and GDP is an important subject because society seeks the best quality of life attainable. It’s important to understand what and how external factors can impact quality of life and overall happiness. 
-![Line Grap]()
+![Line Grap](https://raw.githubusercontent.com/elenaperezsegnini/elenaperezsegnini.github.io/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png)
+
